@@ -21,7 +21,7 @@
   "author": "Sam Holmes",
   "license": "BSD",
   "dependencies": {
-    "cheerio": "^0.22.0",
-    "request": "^2.73.0"
+    "cheerio": "1.0.0-rc.10",
+    "@cypress/request": "3.0.0"
   }
 }

@@ -1,6 +1,6 @@
 'use strict';
 
-var	request = require('request'),
+var	request = require('@cypress/request'),
 	cheerio = require('cheerio');
 
 
