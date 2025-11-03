@@ -22,6 +22,6 @@
   "license": "BSD",
   "dependencies": {
     "cheerio": "1.0.0-rc.10",
-    "@cypress/request": "3.0.0"
+    "@cypress/request": "3.0.9"
   }
 }
